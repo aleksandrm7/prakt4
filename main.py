@@ -9,9 +9,3 @@ def print_random_number():
     print(random_number)
 
 print_random_number()
-
-def print_random_number_2():
-    random_number_2 = random.randint(1, 200)
-    print(random_number_2)
-
-print_random_number_2()
